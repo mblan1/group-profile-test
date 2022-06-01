@@ -706,3 +706,7 @@ p {
     left: 42%;
     font-size: 54px;
 }
+
+.loading-logo{
+    padding-left: 54px;
+}
